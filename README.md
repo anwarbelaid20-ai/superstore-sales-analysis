@@ -116,3 +116,13 @@ Anwar Belaid
 ## Project Type
 
 Data Analytics / Business Intelligence
+## Power BI Dashboard
+
+### Executive Sales Dashboard
+
+![Executive Sales Dashboard](executive_dashboard.png)
+
+### Business Insights & Recommendations
+
+
+![Business Insights](business_insights.png)
